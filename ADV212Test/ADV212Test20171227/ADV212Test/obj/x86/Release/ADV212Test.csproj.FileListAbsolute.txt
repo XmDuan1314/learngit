@@ -1,0 +1,24 @@
+G:\VS2010 Projects\ADV212Test\ADV212Test\bin\Release\ADV212Test.exe
+G:\VS2010 Projects\ADV212Test\ADV212Test\bin\Release\ADV212Test.pdb
+G:\VS2010 Projects\ADV212Test\ADV212Test\obj\x86\Release\ADV212Test.Form1.resources
+G:\VS2010 Projects\ADV212Test\ADV212Test\obj\x86\Release\ADV212Test.Properties.Resources.resources
+G:\VS2010 Projects\ADV212Test\ADV212Test\obj\x86\Release\ADV212Test.csproj.GenerateResource.Cache
+G:\VS2010 Projects\ADV212Test\ADV212Test\obj\x86\Release\ADV212Test.exe
+G:\VS2010 Projects\ADV212Test\ADV212Test\obj\x86\Release\ADV212Test.pdb
+G:\VS2010 Projects\ADV212Test\ADV212Test\obj\x86\Release\ADV212Test.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ADV212Test20171226\ADV212Test\obj\x86\Release\ADV212Test.exe
+C:\Users\Administrator\Desktop\ADV212Test20171226\ADV212Test\obj\x86\Release\ADV212Test.pdb
+C:\Users\Administrator\Desktop\ADV212Test20171226\ADV212Test\bin\Release\ADV212Test.exe
+C:\Users\Administrator\Desktop\ADV212Test20171226\ADV212Test\bin\Release\ADV212Test.pdb
+C:\Users\Administrator\Desktop\ADV212Test20171226\ADV212Test\obj\x86\Release\ADV212Test.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ADV212Test20171226\ADV212Test\obj\x86\Release\ADV212Test.Form1.resources
+C:\Users\Administrator\Desktop\ADV212Test20171226\ADV212Test\obj\x86\Release\ADV212Test.Properties.Resources.resources
+C:\Users\Administrator\Desktop\ADV212Test20171226\ADV212Test\obj\x86\Release\ADV212Test.csproj.GenerateResource.Cache
+G:\VS2010 Projects\ADV212Test\ADV212Test20171227\ADV212Test\obj\x86\Release\ADV212Test.exe
+G:\VS2010 Projects\ADV212Test\ADV212Test20171227\ADV212Test\obj\x86\Release\ADV212Test.pdb
+G:\VS2010 Projects\ADV212Test\ADV212Test20171227\ADV212Test\bin\Release\ADV212Test.exe
+G:\VS2010 Projects\ADV212Test\ADV212Test20171227\ADV212Test\bin\Release\ADV212Test.pdb
+G:\VS2010 Projects\ADV212Test\ADV212Test20171227\ADV212Test\obj\x86\Release\ADV212Test.csprojResolveAssemblyReference.cache
+G:\VS2010 Projects\ADV212Test\ADV212Test20171227\ADV212Test\obj\x86\Release\ADV212Test.Form1.resources
+G:\VS2010 Projects\ADV212Test\ADV212Test20171227\ADV212Test\obj\x86\Release\ADV212Test.Properties.Resources.resources
+G:\VS2010 Projects\ADV212Test\ADV212Test20171227\ADV212Test\obj\x86\Release\ADV212Test.csproj.GenerateResource.Cache

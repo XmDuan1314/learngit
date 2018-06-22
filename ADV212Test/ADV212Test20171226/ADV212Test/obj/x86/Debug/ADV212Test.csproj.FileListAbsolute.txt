@@ -1,0 +1,8 @@
+G:\VS2010 Projects\ADV212Test\ADV212Test\bin\Debug\ADV212Test.exe
+G:\VS2010 Projects\ADV212Test\ADV212Test\bin\Debug\ADV212Test.pdb
+G:\VS2010 Projects\ADV212Test\ADV212Test\obj\x86\Debug\ADV212Test.csprojResolveAssemblyReference.cache
+G:\VS2010 Projects\ADV212Test\ADV212Test\obj\x86\Debug\ADV212Test.Form1.resources
+G:\VS2010 Projects\ADV212Test\ADV212Test\obj\x86\Debug\ADV212Test.Properties.Resources.resources
+G:\VS2010 Projects\ADV212Test\ADV212Test\obj\x86\Debug\ADV212Test.csproj.GenerateResource.Cache
+G:\VS2010 Projects\ADV212Test\ADV212Test\obj\x86\Debug\ADV212Test.exe
+G:\VS2010 Projects\ADV212Test\ADV212Test\obj\x86\Debug\ADV212Test.pdb
